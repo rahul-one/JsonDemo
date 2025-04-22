@@ -1,0 +1,12 @@
+# Java and IDE related
+*.class
+*.log
+*.jar
+*.war
+*.ear
+build/
+out/
+target/
+*.iml
+.idea/
+.DS_Store
